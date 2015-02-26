@@ -9,7 +9,7 @@ One thing that is probably needed, is to improve and make consistent the icon na
 Notes:
 
 - Here a proposal for Inkscape  
-  <https://plus.google.com/u/0/b/109612024486187515483/+inkscape/posts/B4rXT3i3oV1>
+  <https://plus.google.com/u/0/b/109612024486187515483/+inkscape/posts/B4rXT3i3oV1>  
   based on Google's material icons  
   https://github.com/google/material-design-icons  
   http://google.github.io/material-design-icons/
