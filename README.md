@@ -15,3 +15,5 @@ Notes:
   based on Google's material icons  
   https://github.com/google/material-design-icons  
   http://google.github.io/material-design-icons/
+- Here some more ideas from the Inkscape world:  
+  https://github.com/PIWEEK/rethinkscape
