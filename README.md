@@ -11,6 +11,7 @@ Please do not copy existing icons from the Scribus code in this repository! Our 
 # Todo
 
 - Find better names for most of the icons and create a patch that allows to use the icons in Scribus.
+- Create a scripts that copies the icons that have been defined into the installed Scribus directory (or lets restore the original images).
 
 
 
